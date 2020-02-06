@@ -1,0 +1,21 @@
+.edu {
+  color: blue;
+}
+.work {
+  color: brown;
+}
+.raima {
+  font-style: italic;
+  
+}
+body {
+  background-color: chartreuse;
+  background: -o-linear-gradient(red purple pink);
+}
+.raima {
+  color: black;
+}
+h2 {
+border: chocolate;
+border-radius: 10px;
+}
